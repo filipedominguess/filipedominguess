@@ -18,10 +18,11 @@
 
 <h3 align="left">📊 Métricas do Github </h3>
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/filipedominguess/filipedominguess/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/filipedominguess/filipedominguess/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/filipedominguess/filipedominguess/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
+</p>
 
 NOTA: Isso não indica meu nível de habilidade ou proficiência nas linguagens, é apenas uma métrica do GitHub que mostra em quais linguagens tenho mais código no GitHub.
 
