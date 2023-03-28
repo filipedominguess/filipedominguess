@@ -5,8 +5,7 @@
 - 🌱 No momento estou aprendendo **ciência de dados - PRACTICUM/DATASCY**
 - 👨‍💻 Os meus projetos estão disponíveis em: [https://github.com/filipedominguess/Projetos](https://github.com/filipedominguess/Projetos)
 - 💬 Me pergunte sobre **ciência de dados e tecnologia**
-- 📫 Fale comigo por meio de **linkedin.com/in/filipe-gomes-domingues**
-- 📄 Saiba mais sobre mim em [linkedin.com/in/filipe-gomes-domingues](linkedin.com/in/filipe-gomes-domingues)
+- 📄 Saiba mais sobre mim em: [linkedin.com/in/filipe-gomes-domingues](linkedin.com/in/filipe-gomes-domingues)
 
 ---
 
