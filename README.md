@@ -1,11 +1,19 @@
 <h1 align="center">Olá 👋, eu sou o Filipe</h1>
 <h3 align="center">Um professor apaixonado por conhecimento e por compartilhá-lo.</h3>
 
-- 🔭 Atualmente estou trabalhando em [um protótipo de modelo que deve prever a quantidade de ouro puro extraído do minério de ouro](https://github.com/filipedominguess/Projetos)
-- 🌱 No momento estou aprendendo **ciência de dados - PRACTICUM/DATASCY**
-- 👨‍💻 Os meus projetos estão disponíveis em: [https://github.com/filipedominguess/Projetos](https://github.com/filipedominguess/Projetos)
-- 💬 Me pergunte sobre **ciência de dados e tecnologia**
-- 📄 Saiba mais sobre mim em: [linkedin.com/in/filipe-gomes-domingues](linkedin.com/in/filipe-gomes-domingues)
+🔭 Atualmente estou trabalhando em um protótipo de modelo que deve prever a quantidade de ouro puro extraído do minério de ouro.
+
+🌱 No momento estou aprendendo ciência de dados - PRACTICUM/DATASCY.
+
+🤓 Os meus projetos estão disponíveis em: https://github.com/filipedominguess/Projetos.
+
+💬 Me pergunte sobre ciência de dados e tecnologia.
+
+📄 Saiba mais sobre mim em: https://linkedin.com/in/filipe-gomes-domingues.
+
+👨‍💻 Hard Skills: Programação em Python, aprendizado de máquina, visualização de dados, consultas e modelagem de dados em SQL.
+
+🧠 Soft Skills: Comunicação efetiva, inteligência emocional, pensamento crítico, curiosidade intelectual, gerenciamento de projetos e habilidade em identificar padrões e tendências em dados para apoiar a tomada de decisões.
 
 ---
 
