@@ -8,6 +8,8 @@
 - 📫 Fale comigo por meio de **linkedin.com/in/filipe-gomes-domingues**
 - 📄 Saiba mais sobre mim em [linkedin.com/in/filipe-gomes-domingues](linkedin.com/in/filipe-gomes-domingues)
 
+---
+
 <details>
   <summary><b>🛠️Linguagens e ferramentas:</b></summary>
   <br/>
@@ -18,10 +20,26 @@
 
 <h3 align="left">📊 Métricas do Github </h3>
 
+<!-- Linguagens mais usadas -->
+<h3 align="left">Linguagens mais usadas:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/filipedominguess/filipedominguess/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/filipedominguess/filipedominguess/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/filipedominguess/filipedominguess/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
+  <a href="https://github.com/filipedominguess">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedominguess&layout=compact&langs_count=10&theme=default"/>
+  </a>
+</p>
+<!-- Estatísticas do Github -->
+<h3 align="left">Estatísticas do Github:</h3>
+<p align="left">
+  <a href="https://github.com/filipedominguess">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=filipedominguess&show_icons=true&theme=default"/>
+  </a>
+</p>
+<!-- Estatísticas de streak -->
+<h3 align="left">Estatísticas de streak:</h3>
+<p align="left">
+  <a href="https://github.com/filipedominguess">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=filipedominguess&theme=default"/>
+  </a>
 </p>
 
 NOTA: Isso não indica meu nível de habilidade ou proficiência nas linguagens, é apenas uma métrica do GitHub que mostra em quais linguagens tenho mais código no GitHub.
