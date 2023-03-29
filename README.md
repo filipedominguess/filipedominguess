@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlhZTZkZGM1ZDE0NzFhNDQyN2IxMzMzNGNkY2MxZThjNTczNDUzYyZjdD1n/Oomp3hps6zVi8BQTsh/giphy.gif" alt="GIF de apresentação" width="100%">
+  <img src="https://raw.githubusercontent.com/filipedominguess/filipedominguess/main/capa.gif" alt="GIF de apresentação" style="height: auto; max-height: 100px;" width="950">
 </p>
+
+
 
 🔭 Atualmente estou trabalhando em um protótipo de modelo que deve prever a quantidade de ouro puro extraído do minério de ouro.
 
