@@ -60,7 +60,7 @@ NOTA: Isso não indica meu nível de habilidade ou proficiência nas linguagens,
 <p align="left">
 <a href="https://linkedin.com/in/filipe-gomes-domingues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipe-gomes-domingues" height="30" width="40" /></a>
 <a href="https://instagram.com/filipedominguess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="filipedominguess" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/filip3 gom3s](https://www.youtube.com/channel/UCt0Tv3cm1mfQ3ph34CDPHMw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="filip3 gom3s" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCt0Tv3cm1mfQ3ph34CDPHMw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="filip3 gom3s" height="30" width="40" /></a>
 <a href="https://discord.gg/Filipe Gomes Domingues#3351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Filipe Gomes Domingues#3351" height="30" width="40" /></a>
 </p>
 
