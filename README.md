@@ -4,7 +4,6 @@
 
 
 
-🔭 Atualmente estou trabalhando em um protótipo de modelo que deve prever a quantidade de ouro puro extraído do minério de ouro.
 
 🌱 No momento estou aprendendo ciência de dados - PRACTICUM/DATASCY.
 
@@ -78,6 +77,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🔭 Atualmente estou trabalhando em um protótipo de modelo que deve prever a quantidade de ouro puro extraído do minério de ouro.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filipedominguess" alt="filipedominguess" /></a> </p>
 
