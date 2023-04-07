@@ -2,10 +2,7 @@
   <img src="https://raw.githubusercontent.com/filipedominguess/filipedominguess/main/capa.gif" alt="GIF de apresentação" style="height: auto; max-height: 100px;" width="950">
 </p>
 
-
-
-
-🌱 No momento estou aprendendo ciência de dados - PRACTICUM/DATASCY.
+🌱 No momento estou realizando cursos de ciência de dados - PRACTICUM/DATASCY.
 
 🤓 Os meus projetos estão disponíveis em: https://github.com/filipedominguess/Projetos.
 
