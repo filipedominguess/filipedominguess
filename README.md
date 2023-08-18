@@ -6,8 +6,6 @@
 
 🤓 Os meus projetos estão disponíveis em: https://github.com/filipedominguess/Projetos.
 
-💬 Me pergunte sobre ciência de dados e tecnologia.
-
 📄 Saiba mais sobre mim em: https://linkedin.com/in/filipe-gomes-domingues.
 
 👨‍💻 Hard Skills: Programação em Python, aprendizado de máquina, visualização de dados, consultas e modelagem de dados em SQL.
@@ -74,6 +72,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+💬 Me pergunte sobre ciência de dados e tecnologia.
 🔭 Atualmente estou trabalhando em um protótipo de modelo que deve prever a quantidade de ouro puro extraído do minério de ouro.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filipedominguess" alt="filipedominguess" /></a> </p>
